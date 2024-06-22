@@ -1,2 +1,4 @@
 .env
 /.venv
+myenv
+assistant_log.txt
