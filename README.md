@@ -22,4 +22,7 @@ Run the assistant:
 
 ```
 $ python3 assistant.py
+python assistant.py --api openai --capture webcam 
+python assistant.py --api openai --capture desktop
+
 ```
